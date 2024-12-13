@@ -1,4 +1,4 @@
-# easyos web
+# OS Deck web
 เว็บรวบรวมไฟล์OSและทำมาเพื่อความสะดวกสบาย ปลอดภัยไร้โฆษณา
 <p>
   <a href="https://guty345.github.io/EasyOS">ทางเข้าหน้าเว็บ</a>
