@@ -15,6 +15,6 @@ darkModeToggle.addEventListener('click', () => {
         darkModeToggle.textContent = '☀️'; 
     } else {
         localStorage.setItem('dark-mode', 'disabled');
-        darkModeToggle.textContent = '🌑'; 
+        darkModeToggle.textContent = '🌙'; 
     }
 });
