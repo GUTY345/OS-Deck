@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body {
+    background-color: #ffffff;
+    color: #000000;
+    transition: background-color 0.3s ease, color 0.3s ease;
+    font-family: "Lato", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+span {
+    color: #000000; 
+    transition: color 0.3s ease;
+}
+/* Dark Theme */
+body.dark-mode {
+    background-color: #121212;
+    color: #ffffff;
+}
+body.dark-mode span {
+    color: #ffffff;
+}
+.dark-mode-toggle {
+    cursor: pointer;
+    font-size: 24px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    color: inherit;
+}
+body header {
+    font-family: "Lato", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.carousel-inner img {
+    height: 400px;
+    object-fit: cover;
+}
+.os-card img {
+    height: 150px;
+    object-fit: cover;
+}
+.os-card {
+    transition: transform 0.3s ease;
+}
+.os-card:hover {
+    transform: translateY(-5px);
+}
