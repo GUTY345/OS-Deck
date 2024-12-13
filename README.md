@@ -1,7 +1,7 @@
 # easyos web
 เว็บรวบรวมไฟล์OSและทำมาเพื่อความสะดวกสบาย ปลอดภัยไร้โฆษณา
 <p>
-  <a href="https://guty345.github.io/EasyOS)">ทางเข้าหน้าเว็บ</a>
+  <a href="https://guty345.github.io/EasyOS">ทางเข้าหน้าเว็บ</a>
 </p>
 
 <h2 stle="margin-top:40px;">Screen-Shot</h2>
